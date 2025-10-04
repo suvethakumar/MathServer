@@ -139,12 +139,15 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<suvetha/mathapp/templates/mathapp/Screenshot (31).png>)
+![alt text](suve1.png)
 
 
 
 ## HOMEPAGE:
-![alt text](<suvetha/mathapp/templates/mathapp/Screenshot (32) - Copy.png>)
+
+![alt text](<Screenshot (34).png>)
+
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
