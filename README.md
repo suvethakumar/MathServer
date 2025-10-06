@@ -2,11 +2,11 @@
 ## Date:1/10/25
 
 ## AIM:
- To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
+ To design a website to calculate the Body Mass Index in the server side.
 
 
 ## FORMULA:
-BMI = W/H<sup>2</sup>R
+BMI = W/(H/100**2)
 <br> BMI --> Body Mass Index
 <br> W --> Weight
 <br> H --> Height
@@ -39,9 +39,9 @@ math.html
 <html>
 <head>
 <title>Body Mass Index</title>
-<h1 style="color:pink;">SUVETHA k (25014616)</h1>
 <style type="text/css">
 body
+<h1 style="color:pink;">SUVETHA k (25014616)</h1>
 {
 background-color:red;
 }
